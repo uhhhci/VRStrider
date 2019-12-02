@@ -3,6 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ee]xperimentData/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -23,6 +24,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+*.VC.db
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -34,3 +36,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.mp4

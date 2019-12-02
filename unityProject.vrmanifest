@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.bike.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity projects\\Bike\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Bike [Testing]"
+        }
+      }
+    }
+  ]
+}
